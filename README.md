@@ -1,2 +1,2 @@
-# GameRunner
-Creating Gaming Interface for the sample games 
+# EverythingSpring
+Working on various Java Spring dependencies and experimenting on them to produce a great projects in overall aspect. 
