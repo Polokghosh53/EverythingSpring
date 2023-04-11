@@ -13,3 +13,7 @@
 
 /src/main/resources/META-INF/resources/WEB-INF/jsp
 sayHello.jsp
+
+## Login JSP
+
+/login => com.polok.springboot.myfirstwebapp.login.LoginController => login.jsp
