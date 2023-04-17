@@ -17,3 +17,14 @@ sayHello.jsp
 ## Login JSP
 
 /login => com.polok.springboot.myfirstwebapp.login.LoginController => login.jsp
+
+## Todo
+
+id 
+username
+description
+targetDate
+done
+
+TodoController
+listTodos.jsp
