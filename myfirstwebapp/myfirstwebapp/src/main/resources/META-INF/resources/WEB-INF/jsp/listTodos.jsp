@@ -14,6 +14,7 @@
 						<th>Description</th>
 						<th>Target Date</th>
 						<th>Is Done?</th>
+						<th><a href="delete-todo">DELETE</a></th>
 					</tr>
 				</thead>
 				<tbody>
