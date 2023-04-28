@@ -66,6 +66,6 @@ public class TodoController {
 	public String showUpdateTodoPage(@RequestParam int id, ModelMap model) {
 		Todo todo = todoService.findById(id);
 		model.addAttribute("todo",todo);
-		return "todo";
+		return "redirect:todo";
 	}
 }
