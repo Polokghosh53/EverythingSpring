@@ -20,6 +20,8 @@ public class TodoService {
 				LocalDate.now().plusYears(2), false));
 		todos.add(new Todo(++todosCount, "polok","Learn Full Stack Development",
 				LocalDate.now().plusYears(3), false));
+		todos.add(new Todo(++todosCount, "polok","Learn Java Stack Development",
+				LocalDate.now().plusYears(4), false));
 	}
 	
 	public List<Todo> findByUsername(String username) {
